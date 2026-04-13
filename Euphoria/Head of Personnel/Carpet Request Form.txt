@@ -1,0 +1,39 @@
+# Carpet Request Form
+
+[color=#DD5216]~~~~HGI~~~~[/color]
+[color=#1b67a5]_________________________________________________[/color]
+[head=2]Carpet Request Form[/head]
+
+[color=gray][italic]This form must be filled out in full for carpet to be received. Thank you for complying with this policy to help us better track and manage station resources.[/color][/italic]
+
+[head=3]Section A[/head]
+
+[bold]Sector:[/bold] Esin-14
+[bold]Station:[/bold]
+[bold]Shift Time:[/bold]
+[bold]Head of Personnel:[/bold] 
+
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section B[/head]
+
+[bold]Carpet Requisitioner's Name:[/bold]
+
+[bold]Color of Carpet Requested:[/bold]
+
+[bold]Number of Pieces of Carpet Requested:[/bold]
+
+[italic](Optional)[/italic][bold] Secondary Color of Carpet Requested:[/bold]
+
+[italic](Optional)[/italic][bold] Number of Pieces of Carpet Requested:[/bold]
+
+[color=gray][italic]For requests for more than two colors of carpet, please fill out another form.[/color][/italic]
+
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section C[/head]
+
+[color=gray][italic]This form is null and void until signed and stamped by the Head of Personnel, Acting Head of Personnel, or Commanding Officer.[/color][/italic]
+
+[bold]Head of Personnel's Signature:[/bold]
+[bold]Head of Personnel's Stamp:[/bold]
