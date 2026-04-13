@@ -1,0 +1,75 @@
+# Exit Survey
+
+[color=#1b67a5] ◥[bold]N[/bold]◣ [/color]
+[color=#1b67a5]_________________________________________________[/color]
+[head=2]Exit Survey[/head]
+
+[color=gray][italic]Please tell us about your experience at the Head of Personnel's office today.[/color][/italic]
+
+[head=3]Section A[/head]
+
+[bold]Sector:[/bold] Esin-14
+[bold]Station:[/bold]
+[bold]Shift Time:[/bold]
+[bold]Head of Personnel:[/bold] Declan Edmunds
+
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section B[/head]
+
+[bold]Your Name:[/bold]
+[bold]Your Current Role:[/bold]
+
+[bold]What brought you to the Head of Personnel's office today?[/bold]
+
+
+
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section C[/head]
+
+[bold]Are you satisfied with the help you received from the Head of Personnel?[/bold]
+
+Y \[  ]
+N \[  ]
+
+[bold]If you answered "No", why not?[/bold]
+
+
+[bold]Please mark how strongly you agree or disagree with each of the following:[/bold]
+
+[italic]My visit today was timely and efficient.[/italic]
+\[ ] Strongly agree
+\[ ] Somewhat agree
+\[ ] Neither agree nor disagree 
+\[ ] Somewhat disagree 
+\[ ] Strongly disagree
+
+[italic]The Head of Personnel was able to resolve my issue.[/italic]
+\[ ] Strongly agree
+\[ ] Somewhat agree
+\[ ] Neither agree nor disagree 
+\[ ] Somewhat disagree 
+\[ ] Strongly disagree
+
+[italic]I am likely to return to the Head of Personnel's office again for relevant issues in the future.[/italic]
+\[ ] Strongly agree
+\[ ] Somewhat agree
+\[ ] Neither agree nor disagree 
+\[ ] Somewhat disagree 
+\[ ] Strongly disagree
+
+[italic]I am likely to recommend my friends and coworkers go to the Head of Personnel's office for relevant issues.[/italic]
+\[ ] Strongly agree
+\[ ] Somewhat agree
+\[ ] Neither agree nor disagree 
+\[ ] Somewhat disagree 
+\[ ] Strongly disagree
+
+[bold]Is there anything else you'd like us to know about your experience today?[/bold]
+
+
+
+[head=2]Thank you for taking the time to complete this survey.[/head]
+
+[bold]Your signature:[/bold]
