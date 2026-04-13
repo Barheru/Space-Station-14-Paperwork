@@ -1,0 +1,45 @@
+#intake form
+[color=#1b67a5] ◥[bold]N[/bold]◣ [/color]
+[italic]The Head of Personnel's Office[/italic]
+[color=#1b67a5]_________________________________________________[/color]
+[head=2]Intake Form[/head]
+
+[color=gray][italic]Please tell us what brings you to the Head of Personnel's Office today.[/italic][/color]
+
+[head=3]Section A[/head]
+
+[bold]Sector:[/bold] 
+[bold]Station:[/bold]
+[bold]Shift Time:[/bold]
+[bold]Head of Personnel:[/bold] 
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section B[/head]
+
+[bold]Your Name:[/bold]
+[bold]Your Current Role:[/bold]
+
+[bold]What brings you to the Head of Personnel's Office today?[/bold]
+
+
+[color=#1b67a5]_________________________________________________[/color]
+
+[head=3]Section C[/head]
+
+[bold]Please mark all of the following that apply:[/bold]
+
+\[ ] I am here to change the name on my ID.
+\[ ] I am here to change the access on my ID.
+\[ ] I am here to apply for a job.
+\[ ] I am here to quit a job.
+\[ ] I am here to file a complaint.
+\[ ] I am here to request carpet.
+\[ ] I am here to request a private appointment with the Head of Personnel.
+\[ ] I am here for another reason.
+
+[bold]Is there anything else you'd like the Head of Personnel to know about your visit?[/bold]
+
+
+[head=2]Thank you for filling out this intake form. Please give it to the Head of Personnel.[/head]
+
+[bold]Your signature:[/bold]
