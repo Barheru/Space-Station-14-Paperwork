@@ -1,0 +1,32 @@
+[color=#DD5216]~~~~HGI~~~~[/color]
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[head=2]Election of Commanding Officer[/head]
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold]SECTOR:[/bold] 
+[bold]STATION:[/bold] 
+[bold]SHIFT TIME:[/bold] 
+[bold]Head of Personnel:[/bold] 
+[bold]Logistics Officer:[/bold] 
+[bold]Chief Medical Officer:[/bold] 
+[bold]Mystagogue:[/bold] 
+[bold]Chief Engineer:[/bold] 
+[bold]Head of Security:[/bold] 
+[bold]Chief Justice:[/bold] 
+
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+• Members of Command Unavailable: 
+• Members of Command Abstaining From Voting: 
+• Members of Command Abstaining From Election: 
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold]VOTES[/bold]
+HoP: 
+LO: 
+CMO: 
+MG: 
+CE: 
+HoS: 
+CJ: 
+
+[bold]ELECTION OUTCOME:[/bold] 
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[color=red]This document is not valid unless stamped and signed by at least two thirds of the members of command present at the vote. Once complete, this document is to be sent to Central Command.[/color]
