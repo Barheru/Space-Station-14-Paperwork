@@ -1,0 +1,19 @@
+[color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]HEAD OF PERSONNEL[/bold]
+[mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]ORDER OF DISMISSAL[/head]
+[color=#334e6d]─────────────────────────────────────────[/color]
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold] 
+[bold]SHIFT TIME:[/bold] 
+[bold]ACCOUNTABLE PERSON:[/bold]
+[bold]JOB:[/bold]
+[color=#334e6d]─────────────────────────────────────────[/color]
+• Dismissed employee:
+• The position of the dismissed employee:
+• The reason for the dismissal:
+[color=#334e6d]─────────────────────────────────────────[/color]
+
+[italic]NOTE: This form of document is valid only for employees who do not have the status of Head of Department. The document must be sealed with the stamp of the department head in which the dismissed employee worked, unless explicitly stated otherwise in a note. After dismissal, the employee is obliged to receive the passenger's uniform, the passenger's headset and the passenger's PDA, having handed over all the professional inventory of the previous position.[/italic]
+
+[color=red]This document is not valid unless stamped by at least one of the required personnel.[/color]
+
+[bold]HEAD OF PERSONNEL'S STAMP:[/BOLD]
