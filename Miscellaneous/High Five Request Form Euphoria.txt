@@ -1,0 +1,61 @@
+[color=#DD5216][mono]
+ █▄█ █▀▀ ▀█▀
+ █ █ █▄█ ▄█▄ [/mono]
+─────────────────────────────────────────────────[/color]
+
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold] 
+[bold]SHIFT TIME:[/bold] 
+[bold]HIGH-FIVE REQUESTER'S NAME AND JOB TITLE:[/bold]
+[bold]HIGH-FIVE REQUESTEE(S)' NAME AND JOB TITLE(S):[/bold]
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold]HIGH-FIVE STYLE(S) REQUESTED:[/bold]
+
+\[  ] Up top
+\[  ] Down low
+\[  ] Painfully forceful
+\[  ] Mid-Jump
+\[  ] Up top/down low/too slow combo 
+\[  ] Awkward miss
+\[  ] Other:
+
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold]IMPLICATIONS OF High-Five[/bold]
+
+The requested high-five is intended to be: 
+\[   ] Purely platonic (Casual)
+\[   ] Platonic rivalry 
+\[   ] Romantic
+\[   ] Passive Aggressive
+\[   ] Other (Please Specify):
+
+Is there potential for this encounter to be repeated?
+\[   ] Yes
+\[   ] No
+\[   ] Depends on how the high-five goes
+
+[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[bold]GENDER AND HANDS DISCLOSURE[/bold]
+
+I am a:
+\[   ] Man
+\[   ] Woman
+\[   ] Borg
+\[   ] Nonbinary Individual
+\[   ] Other: 
+
+I have: 
+\[   ] A right hand (organic)
+\[   ] A left hand (organic) 
+\[   ] A right hand (synthetic)
+\[   ] A left hand (synthetic)
+\[   ] A right paw (organic)
+\[   ] A left paw (organic)
+\[   ] A right paw (synthetic)
+\[   ] A left paw (synthetic)
+\[   ] A right claw (organic)
+\[   ] A left claw (organic) 
+\[   ] A right claw (synthetic)
+\[   ] A left claw (synthetic) 
+\[   ] Other: 
+\[   ] Other: 
