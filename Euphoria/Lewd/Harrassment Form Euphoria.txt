@@ -34,7 +34,7 @@ The requested harassment is intended to to express:
 \[   ] Loathing
 \[   ] Ambivalence
 \[   ] Hunger
-\[  ] Other: 
+\[   ] Other: 
 
 Is there potential for this encounter to be repeated?
 \[   ] Yes
