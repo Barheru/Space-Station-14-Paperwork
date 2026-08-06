@@ -1,8 +1,8 @@
 [color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]COMMAND[/bold]
 [mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]ACTING COMMANDING OFFICER ELECTION[/head]
-[color=#334e6d]─────────────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 [head=2]Election of Commanding Officer[/head]
-[color=#334e6d]─────────────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 [bold]SECTOR:[/bold] Sector Esin-14
 [bold]STATION:[/bold] 
 [bold]SHIFT TIME:[/bold] 
@@ -14,11 +14,11 @@
 [bold]Head of Security:[/bold] 
 [bold]Chief Justice:[/bold] 
 
-[color=#334e6d]─────────────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 • Members of Command Unavailable: 
 • Members of Command Abstaining From Voting: 
 • Members of Command Abstaining From Election: 
-[color=#334e6d]─────────────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 [bold]VOTES[/bold]
 HoP: 
 LO: 
@@ -29,5 +29,5 @@ HoS:
 CJ: 
 
 [bold]ELECTION OUTCOME:[/bold] 
-[color=#334e6d]─────────────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 [color=red]This document is not valid unless stamped and signed by at least two thirds of the members of command present at the vote. Once complete, this document is to be sent to Central Command.[/color]
