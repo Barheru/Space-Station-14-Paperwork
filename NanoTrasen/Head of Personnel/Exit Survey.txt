@@ -8,7 +8,7 @@
 
 [head=3]Section A[/head]
 
-[bold]Sector:[/bold] Esin-14
+[bold]Sector:[/bold]
 [bold]Station:[/bold]
 [bold]Shift Time:[/bold]
 [bold]Head of Personnel:[/bold]
