@@ -1,7 +1,7 @@
 #intake form
 [color=#1b67a5] ◥[bold]N[/bold]◣ [/color]
 [italic]The Head of Personnel's Office[/italic]
-[color=#1b67a5]_________________________________________________[/color]
+[color=#1b67a5]─────────────────────────────────────────[/color]
 [head=2]Intake Form[/head]
 
 [color=gray][italic]Please tell us what brings you to the Head of Personnel's Office today.[/italic][/color]
@@ -12,7 +12,7 @@
 [bold]Station:[/bold]
 [bold]Shift Time:[/bold]
 [bold]Head of Personnel:[/bold] 
-[color=#1b67a5]_________________________________________________[/color]
+[color=#1b67a5]─────────────────────────────────────────[/color]
 
 [head=3]Section B[/head]
 
@@ -22,7 +22,7 @@
 [bold]What brings you to the Head of Personnel's Office today?[/bold]
 
 
-[color=#1b67a5]_________________________________________________[/color]
+[color=#1b67a5]─────────────────────────────────────────[/color]
 
 [head=3]Section C[/head]
 
