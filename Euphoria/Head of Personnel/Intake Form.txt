@@ -1,6 +1,6 @@
 [color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]HEAD OF PERSONNEL[/bold]
 [mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]INTAKE FORM[/head]
-[color=#334e6d]─────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 [color=gray][italic]Please tell us what brings you to the Head of Personnel's Office today.[/italic][/color]
 
 [head=3]Section A[/head]
@@ -9,16 +9,17 @@
 [bold]Station:[/bold]
 [bold]Shift Time:[/bold]
 [bold]Head of Personnel:[/bold] 
-[color=#334e6d]─────────────────────────────────────────────────[/color]
+[color=#334e6d]─────────────────────────────────────────[/color]
 
 [head=3]Section B[/head]
 
 [bold]Your Name:[/bold]
 [bold]Your Current Role:[/bold]
 
-[bold]What brings you to the Head of Personnel's Office today?[/bold]
+[bold]What brings you to the Head of Personnel's Office today?
 
-[color=#334e6d]─────────────────────────────────────────────────[/color]
+
+[/bold][color=#334e6d]─────────────────────────────────────────[/color]
 
 [head=3]Section C[/head]
 
