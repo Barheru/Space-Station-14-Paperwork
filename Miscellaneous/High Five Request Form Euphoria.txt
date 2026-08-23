@@ -1,14 +1,14 @@
 [color=#DD5216][mono]
  █▄█ █▀▀ ▀█▀
  █ █ █▄█ ▄█▄ [/mono]
-─────────────────────────────────────────────────[/color]
+──────────────────────────────────[/color]
 
 [bold]SECTOR:[/bold] Esin-14
 [bold]STATION:[/bold] 
 [bold]SHIFT TIME:[/bold] 
 [bold]HIGH-FIVE REQUESTER'S NAME AND JOB TITLE:[/bold]
 [bold]HIGH-FIVE REQUESTEE(S)' NAME AND JOB TITLE(S):[/bold]
-[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[color=#1b67a5]──────────────────────────────────[/color]
 [bold]HIGH-FIVE STYLE(S) REQUESTED:[/bold]
 
 \[  ] Up top
@@ -19,7 +19,7 @@
 \[  ] Awkward miss
 \[  ] Other:
 
-[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[color=#1b67a5]──────────────────────────────────[/color]
 [bold]IMPLICATIONS OF High-Five[/bold]
 
 The requested high-five is intended to be: 
@@ -34,7 +34,7 @@ Is there potential for this encounter to be repeated?
 \[   ] No
 \[   ] Depends on how the high-five goes
 
-[color=#1b67a5]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color]
+[color=#1b67a5]──────────────────────────────────[/color]
 [bold]GENDER AND HANDS DISCLOSURE[/bold]
 
 I am a:

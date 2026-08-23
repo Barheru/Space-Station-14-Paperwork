@@ -1,6 +1,6 @@
 [color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]HEAD OF PERSONNEL[/bold]
 [mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]VISITOR IDENTIFICATION FORM[/head]
-[color=#334e6d]─────────────────────────────────────────[/color]
+[color=#334e6d]──────────────────────────────────[/color]
 
 [bold]Station:[/bold]
 [bold]Sector:[/bold] Esin-14
