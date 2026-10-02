@@ -7,17 +7,17 @@
 
 [head=3]Section A[/head]
 
-[bold]Sector:[/bold] Esin-14
-[bold]Station:[/bold]
-[bold]Shift Time:[/bold]
-[bold]Head of Personnel:[/bold] 
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold]
+[bold]SHIFT TIME:[/bold]
+[bold]HEAD OF PERSONNEL:[/bold] 
 
 [color=#334e6d]──────────────────────────────────[/color]
 
 [head=3]Section B[/head]
 
-[bold]Your Name:[/bold]
-[bold]Your Current Role:[/bold]
+[bold]NAME:[/bold]
+[bold]CURRENT ROLE:[/bold]
 
 [bold]What brought you to the Head of Personnel's office today?[/bold]
 
@@ -71,4 +71,4 @@ N \[  ]
 
 [head=2]Thank you for taking the time to complete this survey.[/head]
 
-[bold]Your signature:[/bold]
+[bold]SIGNATURE:[/bold]

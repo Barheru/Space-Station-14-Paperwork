@@ -1,0 +1,55 @@
+[color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]HEAD OF PERSONNEL[/bold]
+[mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]FORMAL COMPLAINT[/head]
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section A[/head]
+
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold] 
+[bold]SHIFT TIME:[/bold]
+[bold]HEAD OF PERSONNEL:[/bold] 
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section B[/head]
+COMPLAINANT'S NAME:              
+COMPLAINANT'S ROLE:              
+
+[color=#334e6d]──────────────────────────────────[/color]
+[head=3]Section B[/head]
+[bold]SUBJECT OF THE COMPLAINT:[/bold]
+\[  ] A Individual    \[  ] A Department    \[  ] Other
+[color=gray][italic]If other, please skip to Section C[/color][/italic]
+
+DEPARTMENT OF SUBJECT OF THE COMPLAINT:
+\[  ] Epi     \[  ] Engi  \[  ] Service         \[  ] Cargo        \[  ] Civilian
+\[  ] Med  \[  ] Sec   \[  ] Command   \[  ] CentComm  \[  ] Other
+
+[color=gray][italic]If you are complaining about a person, please answer the following.[/color][/italic]
+NAME OF SUBJECT OF THE COMPLAINT:  
+
+[color=gray][italic]Please choose category(s) of misconduct the person or department has committed.[/color][/italic]
+\[  ] Violation of Space Law      \[  ] Acting against HGI interests
+\[  ] Destruction of Property   \[  ] Causing a disturbance
+\[  ] "Unspeakable Acts"          \[  ] Sabotage of equipment
+\[  ] Theft of Property               \[  ] Overly Bureaucratic
+\[  ] Overly Rude/Mean            \[  ] Not Bureaucratic Enough
+\[  ] Being Really Annoying
+\[  ] Other (please specify): 
+
+[italic]Who Was Affected?[/italic]
+\[  ] Just Me    \[  ] A few people    \[  ] A department worth
+\[  ] Multiple Departments worth    \[  ] Whole Station
+[color=#334e6d]──────────────────────────────────[/color]
+[head=3]Section C[/head]
+[bold]Please provide a detailed explanation of the misconduct below, providing all details relevant to the story.
+
+
+
+
+
+[/bold][color=#334e6d]──────────────────────────────────[/color]
+[color=red][italic]Please either submit it to the Head of Personnel; if unavailable, submit the form to the Commanding Officer or to CentComm via fax for review. Please refrain from involving multiple commanding officers unless it is absolutely necessary.[/italic][/color]
+
+[bold]SIGNATURE OF THE COMPLAINANT:[/bold]
+
+

@@ -1,0 +1,35 @@
+[color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]HEAD OF PERSONNEL[/bold]
+[mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]COSMETIC ID REQUEST[/head]
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section A[/head]
+
+[bold]STATION:[/bold]
+[bold]SECTOR:[/bold] Esin-14
+[bold]SHIFT TIME:[/bold]
+[bold]HEAD OF PERSONNEL:[/bold]
+
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section B[/head]
+
+[bold]CURRENT NAME ON ID:[/bold]
+[bold]CURRENT JOB ON ID:[/bold]
+[bold]REQUESTED NAME(if different):[/bold]
+[bold]REQUESTED JOB TITLE(if different):[/bold]
+[color=gray][italic]Please note that this is for cosmetic titles only. Actual job changes must use the correct Job Transfer form.[/color][/italic]
+
+[bold]Reason for Change(s):[/bold]
+
+
+
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section C[/head]
+
+[color=gray][italic]The Head of Personnel can deny any change for any reason. Cosmetic ID changes are not a right.[/color][/italic]
+
+[bold]APPLICANT'S SIGNATURE:[/bold]
+[bold]HEAD OF PERSONNEL'S SIGNATURE AND STAMP:[/bold]
+
+
