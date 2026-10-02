@@ -1,0 +1,35 @@
+[color=#334e6d][mono] █▄█ █▀▀ ▀█▀ [/mono][bold]SERVICE[/bold]
+[mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]CARPET REQUEST FORM[/head]
+[color=#334e6d]──────────────────────────────────[/color]
+
+[color=gray][italic]This form must be filled out in full for carpet to be received. Thank you for complying with this policy to help us better track and manage station resources.[/color][/italic]
+
+[head=3]Section A[/head]
+
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold]
+[bold]HEAD OF PERSONNEL:[/bold] 
+
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section B[/head]
+
+[bold]CARPET REQUISITIONER'S NAME:[/bold]
+
+[bold]COLOR OF CARPET REQUESTED:[/bold]
+
+[bold]NUMBER OF PIECES REQUESTED:[/bold]
+
+[italic](Optional)[/italic][bold]SECONDARY COLOR OF CARPET REQUESTED:[/bold]
+
+[italic](Optional)[/italic][bold]NUMBER OF PIECES REQUESTED:[/bold]
+
+[color=gray][italic]For requests for more than two colors of carpet, please fill out additional forms.[/color][/italic]
+
+[color=#334e6d]──────────────────────────────────[/color]
+
+[head=3]Section C[/head]
+
+[color=gray][italic]This form is null and void until signed and stamped by the Head of Personnel, Acting Head of Personnel, or Commanding Officer.[/color][/italic]
+
+[bold]HEAD OF PERSONNEL'S SIGNATURE AND STAMP:[/bold]

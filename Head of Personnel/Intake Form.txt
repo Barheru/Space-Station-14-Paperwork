@@ -5,16 +5,16 @@
 
 [head=3]Section A[/head]
 
-[bold]Sector:[/bold] Esin-14
-[bold]Station:[/bold]
-[bold]Shift Time:[/bold]
-[bold]Head of Personnel:[/bold] 
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold]
+[bold]SHIFT TIME:[/bold]
+[bold]HEAD OF PERSONNEL:[/bold] 
 [color=#334e6d]──────────────────────────────────[/color]
 
 [head=3]Section B[/head]
 
-[bold]Your Name:[/bold]
-[bold]Your Current Role:[/bold]
+[bold]YOUR NAME:[/bold]
+[bold]YOUR CURRENT ROLE:[/bold]
 
 [bold]What brings you to the Head of Personnel's Office today?
 
@@ -26,17 +26,18 @@
 [bold]Please mark all of the following that apply:[/bold]
 
 \[ ] I am here to change the name on my ID.
+\[ ] I am here to change the job title on my ID.
 \[ ] I am here to change the access on my ID.
 \[ ] I am here to apply for a job.
 \[ ] I am here to quit a job.
 \[ ] I am here to file a complaint.
 \[ ] I am here to request carpet.
 \[ ] I am here to request a private appointment with the Head of Personnel.
-\[ ] I am here for another reason.
+\[ ] I am here for another reason. [bold](Please specify below)[/bold]
 
 [bold]Is there anything else you'd like the Head of Personnel to know about your visit?[/bold]
 
 
 [head=2]Thank you for filling out this intake form. Please give it to the Head of Personnel.[/head]
 
-[bold]Your signature:[/bold]
+[bold]YOUR SIGNATURE:[/bold]

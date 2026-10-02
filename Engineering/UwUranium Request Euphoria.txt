@@ -2,21 +2,26 @@
 [mono] █ █ █▄█ ▄█▄ [/mono][/color][head=2]PRETTY PLEASE CAN WE HAVE URANIUM[/head]
 [color=#efb341]──────────────────────────────────[/color]
 
-[bold]Sector:[/bold] Esin-14
-[bold]Station:[/bold] 
-[bold]Chief Engineer:[/bold]
-[bold]Quartermaster:[/bold] 
-[bold]Requesting Engineer:[/bold]
+[head=3]Section A[/bold]
+
+[bold]SECTOR:[/bold] Esin-14
+[bold]STATION:[/bold] 
+[bold]CHIEF ENGINEER:[/bold]
+[bold]LOGISTICS OFFICER:[/bold] 
+[bold]REQUESTING ENGINEER:[/bold]
 [color=#efb341]──────────────────────────────────[/color]
+
+[head=3]Section B[/bold]
+
 [bold]Reason for Really Really Wanting Uranium:[/bold]
 
 Upgraded solars (/o-o///) ~~~ <3 <3 <3 (/o-o///)
 
 [bold]How much Uranium?:[/bold]
 
-As much as you can spare (at least three stacks?)
+
 
 [color=#efb341]──────────────────────────────────[/color]
 
-[bold]Requesting Engineer Signature:[/bold]
-[bold]Quartermaster Signature:[/bold]
+[bold]REQUESTING ENGINEER SIGNATURE:[/bold]
+[bold]LOGISTICS SIGNATURE:[/bold]
